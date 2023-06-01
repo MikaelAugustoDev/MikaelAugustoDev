@@ -7,14 +7,22 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MikaelAugustoDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
- # Habilidades Front End
+  ## <i>Habilidades Front End</i>
   
  <img src="https://skillicons.dev/icons?i=react,nextjs,materialui,redux,angular,typescript,javascript,tailwind,styledcomponents,sass,css,html,vite,git,github" />
   
- # Habilidades Back End
+  ## <i>Habilidades Back End</i>
   
  <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,prisma,mysql,postgresql,mongodb," />
   
- # Habilidades Mobile
+  ## <i>Habilidades Mobile</i>
   
 <img src="https://skillicons.dev/icons?i=react,redux,typescript,styledcomponents" />
+
+# Contato
+  
+<div>
+  <a href="https://www.instagram.com/mikael_developer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mikaelaugustodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mikaelaugustodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
