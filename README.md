@@ -3,8 +3,8 @@
 <br>
 <div>
   <a href="https://github.com/seu-usuário-aqui">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelAugustoDev&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MikaelAugustoDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelAugustoDev&show_icons=true&theme=tokyonight&layout=compact&locale=pt-br&langs_count=10"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MikaelAugustoDev&hide=prs,issues&show_icons=true&theme=tokyonight&rank_icon=github&locale=pt-br&line_height=30"/>
 </div>
   
   ## <i>Habilidades Front End</i>
