@@ -8,17 +8,19 @@
 </div>
   
   ## <i>Habilidades Front End</i>
-  
- <img src="https://skillicons.dev/icons?i=react,nextjs,materialui,redux,angular,typescript,javascript,tailwind,styledcomponents,sass,css,html,vite,git,github" />
+  <p align="center">
+   <img src="https://skillicons.dev/icons?i=react,nextjs,materialui,redux,angular,typescript,javascript,tailwind,styledcomponents,sass,css,html,vite,git,github" />
+  </p>
   
   ## <i>Habilidades Back End</i>
-  
- <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,prisma,mysql,postgresql,mongodb," />
+  <p align="center">
+   <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,prisma,mysql,postgresql,mongodb,jest" />
+  </p>
   
   ## <i>Habilidades Mobile</i>
-  
-<img src="https://skillicons.dev/icons?i=react,redux,typescript,styledcomponents" />
-
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=react,redux,typescript,styledcomponents" />
+  </p>
 # Contato
   
 <div>
