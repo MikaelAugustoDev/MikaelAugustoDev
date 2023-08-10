@@ -1,5 +1,5 @@
-<h3>Mikael Augusto</h3>
-<h5>Olá, sou o <i>Mikael Augusto</i>, um <i>Desenvolvedor Full Stack & Mobile</i>.</h5>
+<h1>Mikael Augusto</h1>
+<h2>Olá, sou o <i>Mikael Augusto</i>, um <i>Desenvolvedor Full Stack & Mobile</i>.</h2>
 <div>
   <a href="https://github.com/seu-usuário-aqui">
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelAugustoDev&show_icons=true&theme=tokyonight&layout=compact&locale=pt-br&langs_count=10"/>
