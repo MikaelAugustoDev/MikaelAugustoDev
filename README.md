@@ -1,27 +1,16 @@
-# Mikael Augusto
-## <i>Desenvolvedor Full Stack & Mobile</i>
-<br>
+<h3>Mikael Augusto</h3>
+<h5>Olá, sou o <i>Mikael Augusto</i>, um <i>Desenvolvedor Full Stack & Mobile</i>.</h5>
 <div>
   <a href="https://github.com/seu-usuário-aqui">
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelAugustoDev&show_icons=true&theme=tokyonight&layout=compact&locale=pt-br&langs_count=10"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MikaelAugustoDev&hide=prs,issues&show_icons=true&theme=tokyonight&rank_icon=github&locale=pt-br&line_height=30"/>
 </div>
-  
-  ## <i>Habilidades Front End</i>
-  <p align="center">
-   <img src="https://skillicons.dev/icons?i=react,nextjs,materialui,redux,angular,typescript,javascript,tailwind,styledcomponents,sass,css,html,vite,git,github" />
-  </p>
-  
-  ## <i>Habilidades Back End</i>
-  <p align="center">
-   <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,prisma,mysql,postgresql,mongodb,jest" />
-  </p>
-  
-  ## <i>Habilidades Mobile</i>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,redux,typescript,styledcomponents" />
-  </p>
-# Contato
+ 
+<h2>Habilidades</h2>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,materialui,redux,angular,typescript,javascript,tailwind,styledcomponents,sass,css,html,vite,git,github,nodejs,express,sequelize,prisma,mysql,postgresql,mongodb,jest" />
+ 
+<h2>Contato</h2>
   
 <div>
   <a href = "mailto:mikaelaugustodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
